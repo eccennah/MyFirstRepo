@@ -1,0 +1,2 @@
+I've learnt how to setup a github account and commit changes. I've 
+also learnt how to fork a github project
